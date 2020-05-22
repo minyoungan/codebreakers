@@ -1,4 +1,5 @@
 # creates a max priority queue
+class MaxPriorityQueue:
 	def __init__(self):
 	
 	
